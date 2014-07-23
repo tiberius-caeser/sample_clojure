@@ -3,7 +3,7 @@ language: clojure
 
 env:
   global:
-    - SLACK_ORG=shippable PROJECT=beta-build-samples
+    - SLACK_ORG=shippable PROJECT=sample-clojure
     -  secure: AJu1Xt1X9K/0IwaOq6p7A3f76LE6Ll6+HqFGAOe/EZXFbdNyMjCHA09+ZhBdJrtogJ8i11JZf6NrtyuSYzFDgObRuzePARPqbVt4qetcDNRnw4OJ7Bkz0JGAxUMNGK5tBpcE0d7daszMo+ogNczgEesJlsIk6ZQ3443HUCLmib/1ieV6X4yVZ5lZbsGXlOIp69mhAnWWZrRlRLvhJMU49KMTDjSSmvkH/W76aUUcq9EAEw/r0F2FK/TqPBd32vi5ZtvNLae7/cgFM6c8Q0MEcloWfrKyTobp4XkEYQjsebzeVJScKVefflEVhRXqbl5vI8Wd9jyPXS9u9g/J73zCfA==
 
 lein:
